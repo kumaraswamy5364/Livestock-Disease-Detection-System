@@ -70,3 +70,8 @@ This project aims to:
 * Cloud deployment
 * Veterinary consultation support
 * Disease history and health record management
+## 👩‍💻 Developed by
+
+**Kondala Kumaraswamy**
+2026 Jaunar
+LinkedIn - https://www.linkedin.com/in/kumaraswamy-kondala
