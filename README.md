@@ -3,7 +3,7 @@
 A deep learning-based web application that detects livestock diseases from animal images using a **Convolutional Neural Network (CNN)** model. Users can upload an image of livestock, and the system identifies the disease, recommends suitable medicines and food, and helps farmers and veterinarians provide timely treatment for better livestock health.
 
 ## 📊 Application Overview
-<img width="1400" height="800" alt="{EDA53190-C53B-4524-9F70-8CA0B0539BEA}" src="https://github.com/kumaraswamy5364/Facukty-Feedback-System/blob/b8797dd4a10e55ee000d8d78cebd7533706cf9a6/Screenshot%202026-07-10%20115736.png" />
+<img width="1400" height="800" alt="{EDA53190-C53B-4524-9F70-8CA0B0539BEA}" src="https://github.com/kumaraswamy5364/Livestock-Disease-Detection-System/blob/338a8b4200ec6a97c53adc802fe522ea2df738b1/Screenshot%202026-07-14%20175452.png" />
 
 The application includes:
 
