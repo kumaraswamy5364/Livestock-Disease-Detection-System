@@ -5,6 +5,8 @@ A deep learning-based web application that detects livestock diseases from anima
 ## 📊 Application Overview
 <img width="1400" height="800" alt="{EDA53190-C53B-4524-9F70-8CA0B0539BEA}" src="https://github.com/kumaraswamy5364/Livestock-Disease-Detection-System/blob/2e30f43e8947e1622d2384e6f67bcdb2bcbbee86/Screenshot%202026-07-14%20180243.png" />
 <img width="1400" height="800" alt="{EDA53190-C53B-4524-9F70-8CA0B0539BEA}" src="https://github.com/kumaraswamy5364/Livestock-Disease-Detection-System/blob/2e30f43e8947e1622d2384e6f67bcdb2bcbbee86/Screenshot%202026-07-14%20180315.png" />
+<img width="1400" height="800" alt="{EDA53190-C53B-4524-9F70-8CA0B0539BEA}" src="https://github.com/kumaraswamy5364/Livestock-Disease-Detection-System/blob/fac072a17ca4a7f53a8aabf08e8a38568a4feffa/Screenshot%202026-07-15%20135540.png" />
+
 
 The application includes:
 
